@@ -520,10 +520,12 @@ strong:hover {
   visibility: hidden;
   z-index: 1000;
 }
+
 #button:hover {
   cursor: pointer;
   background-color: #333;
 }
+
 #button.show {
   opacity: 1;
   visibility: visible;
