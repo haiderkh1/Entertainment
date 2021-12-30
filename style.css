@@ -31,8 +31,9 @@ html::-webkit-scrollbar-thumb {
 }
 
 body {
-  font-family: "Eczar", serif;
-  font-family: "Tillana", cursive;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
   background-color: var(--body-bg);
   color: var(--text-color);
   padding-top: var(--nav-height);

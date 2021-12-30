@@ -18,7 +18,7 @@ $(document).ready(() => {
     nav: true,
     navText: navText,
     autoplay: true,
-    smartSpeed: 1500,
+    smartSpeed: 2000,
     autoplayHoverPause: false,
   });
 
