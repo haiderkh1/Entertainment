@@ -17,7 +17,7 @@ $(document).ready(() => {
     loop: true,
     nav: true,
     navText: navText,
-    autoplay: false,
+    autoplay: true,
     smartSpeed: 2000,
     autoplayHoverPause: false,
   });
